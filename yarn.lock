@@ -826,10 +826,10 @@
     exec-sh "^0.3.2"
     minimist "^1.2.0"
 
-"@cremepie/core@1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@cremepie/core/-/core-1.0.0.tgz#f08cf6be812260f49b767563aecd06cb7fef453e"
-  integrity sha512-uayL4v0Z4IBfgZvoaeyS6HHU3HvsRGC+yz9d9y9ld5Zq8/Ez9q94vkK/KrQcKP1nTkN1lm+OZCI3BL4lsi4moQ==
+"@cremepie/core@1.0.5":
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/@cremepie/core/-/core-1.0.5.tgz#61cc887d75e997b581d31004b4cdb0a4d2ec9f11"
+  integrity sha512-2wPmpZc8pOSwKlyRRE8k5mnbduwUL3awEfgsCQ4rk8CUAzydrKCpUz2pLNK42N+CiU9ivFqSXOCq2ACIPRtTuQ==
 
 "@ethersproject/abi@^5.0.0":
   version "5.0.2"

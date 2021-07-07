@@ -1,7 +1,7 @@
 {
   "name": "@cremepie/sdk",
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.0.9",
   "description": "🛠 An SDK for building applications on top of Uniswap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -26,7 +26,7 @@
   },
   "dependencies": {
     "@bscex/core": "1.0.5",
-    "@cremepie/core": "1.0.0",
+    "@cremepie/core": "1.0.5",
     "@uniswap/v2-core": "^1.0.0",
     "big.js": "^5.2.2",
     "decimal.js-light": "^2.5.0",
